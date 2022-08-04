@@ -6,6 +6,10 @@
 	path = php-codeigniter
 	url = git@github.com:abuabdirohman4/php-codeigniter.git
 	branch = master
+[submodule "php-laravel"]
+	path = php-laravel
+	url = git@github.com:abuabdirohman4/php-laravel.git
+	branch = master
 [submodule "php-mvc"]
 	path = php-mvc
 	url = git@github.com:abuabdirohman4/php-mvc.git
