@@ -1,0 +1,15 @@
+[submodule "php-basic"]
+	path = php-basic
+	url = git@github.com:abuabdirohman4/php-basic.git
+[submodule "php-codeigniter"]
+	path = php-codeigniter
+	url = git@github.com:abuabdirohman4/php-codeigniter.git
+[submodule "php-mvc"]
+	path = php-mvc
+	url = git@github.com:abuabdirohman4/php-mvc.git
+[submodule "php-oop"]
+	path = php-oop
+	url = git@github.com:abuabdirohman4/php-oop.git
+[submodule "php-wordpress"]
+	path = php-wordpress
+	url = git@github.com:abuabdirohman4/php-wordpress.git
